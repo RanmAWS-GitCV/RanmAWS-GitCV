@@ -1,46 +1,61 @@
-👋 Welcome to RanmAWS-GitCV
+# 👋 Welcome to RanmAWS-GitCV  
 
-I’m currently 14, building toward a cloud engineering career with the goal of a valid, professional CV by 18 and financial independence before 28.
+I’m a 14-year-old student building toward a career in **Cloud Engineering & Computer Science**, with the goal of admission to a **top global university** (MIT, NUS, NTU, or similar) and a professional portfolio by age 18.  
 
-This GitHub documents my journey toward securing a remote cloud role, using a hybrid path of traditional study, focused self-teaching, and automated workflows.
-
-    Goal: Reach financial independence early through smart, deliberate work — not burnout.
+This repository — and my GitHub — documents my journey of **independent study, technical projects, and long-term growth in cloud computing**.  
 
 ---
 
-⚡ Focus Areas:
-
-    🌩️ AWS Cloud (Boto3, Terraform, EC2, S3, IAM, and more)
-
-    🐍 Python automation & scripting
-
-    🛠️ Infrastructure as Code (IaC)
-
-    🎓 Self-learning path designed for early mastery
+## 🎯 Objective  
+Motivated computing student with strong aptitude for **cloud architecture** and **automation scripting**.  
+Actively developing hands-on projects in AWS while preparing for advanced Computer Science education.  
 
 ---
 
-🗂️ Main Repos:
-
-    aws-init-log – Logging my first steps into AWS
-
-    python-scripts-ranmagennics – Practical Python tools from my learning path
-
-    cloud-projects-101 – Deploying real infrastructure via code
+## ⚡ Focus Areas  
+- ☁️ **Cloud & DevOps**: AWS (EC2, S3, IAM), boto3, automation scripting  
+- 🐍 **Programming**: Python, AWS CLI, html and javascript basics  
+- 🛠️ **Infrastructure as Code (IaC)** foundations  
+- 🎓 **Self-learning**: Distributed systems, automation, and architecture design  
 
 ---
 
-🧭 Long-Term Vision:
+## 🗂️ Projects & Technical Experience  
 
--    🚫 No debt: fund education independently, or move straight          into apprenticeships or work experience after school
+### 🔹 AWS Logging System (2025)  
+- Built a working **cloud-native project** at age 14.  
+- Deployed a static website on S3 with dynamic logging handled by an EC2 instance.  
+- Configured IAM roles and boto3 automation for secure log uploads to S3.  
+- Documented full architecture in GitHub with **professional diagrams**.  
 
--    💻 Start at 14, build a valid portfolio and job-ready skills        by 18
+### 🔹 Python Automation Scripts  
+- Developed tools for managing AWS services and workflow automation.  
+- Experimented with logging, scheduling, and resource monitoring.  
 
--    🏞️ Prioritize deep, consistent focus over hustle culture or         job-hopping
+---
 
- -   🌍 Gain long-term remote flexibility to work from anywhere
+## 🏆 Achievements  
+- Completed **FreeCodeCamp AWS Certified Cloud Practitioner (CCP) course**.  
+- Consistently scored **high marks** on CCP mock tests & practice exams.  
+- Planning to attempt the **AWS CCP certification exam in Sixth Form**, ensuring long-term validity.  
+- Next milestone: **FreeCodeCamp AWS Solutions Architect Associate (SAA) course** after GCSEs.  
+- Built my first **end-to-end AWS project** with no formal training.  
+- Applied discipline from martial arts to maintain consistency in computing.  
 
- -   ✅ Achieve peace, financial stability, and a challenging yet       fulfilling career earlier than most
+---
 
-    “Every commit is a step toward securing the future.”
+## 📚 Education Path  
+- 🎒 Current: UK Secondary School (Year 10 starting)  
+- 🎓 Next: Securing AWS SAA, then targeting admission to **top Computer Science universities** (MIT, NUS, NTU, etc.)  
+- 🏞️ Long-term: Career in **Cloud Architecture**, leveraging remote work to balance technical expertise with sustainability and clarity.  
 
+---
+
+## 🌱 Interests  
+- Martial arts & personal philosophy
+- Music production & creativity  
+- Designing systems that balance **efficiency, clarity, and peace**  
+
+---
+
+💡 *“Every commit is a step toward securing the future.”*  
