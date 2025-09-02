@@ -46,7 +46,7 @@ Actively developing hands-on projects in AWS while preparing for advanced Comput
 
 ## Education Path  
 - Current: UK Secondary School (Year 10 starting)  
-- Next: Securing AWS SAA, then targeting admission to **top Computer Science universities** (MIT, NUS, NTU, etc.)  
+- Next: Securing AWS SAA, then targeting admission to **top Computer Science universities** 
 - Long-term: Career in **Cloud Architecture**, leveraging remote work to balance technical expertise with sustainability and clarity.  
 
 ---
